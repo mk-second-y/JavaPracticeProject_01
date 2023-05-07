@@ -3,3 +3,7 @@
 
 [Open in Gitpod]
 (https://gitpod.io/#https://github.com/will121173/JavaPracticeProject_01)
+
+
+拡張機能
+- Extension Pack for Java
