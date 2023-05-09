@@ -18,3 +18,5 @@
 
 リモートへの反映  
 `git push origin dev-YOURNAME`  
+
+わーい
